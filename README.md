@@ -8,10 +8,10 @@ This module provides several tutorial Cortex flows to help new users get familia
 ## Table of Contents
 
 1) [Quick Start Flows](#quick-start-flows)
-    * [QSF-Allocate-Request](#qsf-allocate-request)
-    * [QSF-Get-Required-Role](#qsf-get-required-role)
-    * [QSF-Ticket-Parsing](#qsf-ticket-parsing)
-    * [QSF-User-Collection-Data](#qsf-user-collection-data) 
+    * [QSF-Allocate-Request](https://github.com/CortexIntelligentAutomation/CTX-Quick-Start-Flows/wiki/QSF-Allocate-Request)
+    * [QSF-Get-Required-Role](https://github.com/CortexIntelligentAutomation/CTX-Quick-Start-Flows/wiki/QSF-Get-Required-Role)
+    * [QSF-Ticket-Parsing](https://github.com/CortexIntelligentAutomation/CTX-Quick-Start-Flows/wiki/QSF-Ticket-Parsing)
+    * [QSF-User-Collection-Data](https://github.com/CortexIntelligentAutomation/CTX-Quick-Start-Flows/wiki/QSF-User-Collection-Data) 
 2) [Dependencies](#dependencies)
     * [Cortex Version](#cortex-version)
     * [Files](#files)
