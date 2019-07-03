@@ -19,12 +19,43 @@ This module provides several tutorial Cortex flows to help new users get familia
 
 
 ## Quick Start Flows
+ 
+ Please use the below index to find flows that provide examples on specific Cortex concepts. You can also find the full list of flows from the [Quick Start Flows Wiki](https://github.com/CortexIntelligentAutomation/CTX-Quick-Start-Flows/wiki) page.
 
-Please visit the [Quick Start Flows Wiki](https://github.com/CortexIntelligentAutomation/CTX-Quick-Start-Flows/wiki) to find more about each flow:
- * [QSF-Allocate-Request](https://github.com/CortexIntelligentAutomation/CTX-Quick-Start-Flows/wiki/QSF-Allocate-Request)
- * [QSF-Get-Required-Role](https://github.com/CortexIntelligentAutomation/CTX-Quick-Start-Flows/wiki/QSF-Get-Required-Role)
- * [QSF-Ticket-Parsing](https://github.com/CortexIntelligentAutomation/CTX-Quick-Start-Flows/wiki/QSF-Ticket-Parsing)
- * [QSF-User-Collection-Data](https://github.com/CortexIntelligentAutomation/CTX-Quick-Start-Flows/wiki/QSF-User-Collection-Data) 
+<details>
+<summary>Composite Variables, Loops and Branching</summary>
+
+* [QSF-Allocate-Request](https://github.com/CortexIntelligentAutomation/CTX-Quick-Start-Flows/wiki/QSF-Allocate-Request)
+* [QSF-Get-Required-Role](https://github.com/CortexIntelligentAutomation/CTX-Quick-Start-Flows/wiki/QSF-Get-Required-Role)
+* [QSF-Ticket-Parsing](https://github.com/CortexIntelligentAutomation/CTX-Quick-Start-Flows/wiki/QSF-Ticket-Parsing)
+</details>
+
+<details>
+<summary>Text Manipulation and RegEx</summary>
+
+* [QSF-Ticket-Parsing](https://github.com/CortexIntelligentAutomation/CTX-Quick-Start-Flows/wiki/QSF-Ticket-Parsing)
+
+</details>
+
+
+<details>
+<summary>OCIs</summary>
+
+* [QSF-Get-Required-Role](https://github.com/CortexIntelligentAutomation/CTX-Quick-Start-Flows/wiki/QSF-Get-Required-Role)
+</details>
+
+<details>
+<summary>Error Handling</summary>
+
+* [QSF-Get-Required-Role](https://github.com/CortexIntelligentAutomation/CTX-Quick-Start-Flows/wiki/QSF-Get-Required-Role)
+</details>
+
+
+<details>
+<summary>User Interaction</summary>
+
+* [QSF-User-Collection-Data](https://github.com/CortexIntelligentAutomation/CTX-Quick-Start-Flows/wiki/QSF-User-Collection-Data) 
+</details>
 
 ## Dependencies
 
