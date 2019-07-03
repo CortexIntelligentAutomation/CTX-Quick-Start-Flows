@@ -8,10 +8,6 @@ This module provides several tutorial Cortex flows to help new users get familia
 ## Table of Contents
 
 1) [Quick Start Flows](#quick-start-flows)
-    * [QSF-Allocate-Request](https://github.com/CortexIntelligentAutomation/CTX-Quick-Start-Flows/wiki/QSF-Allocate-Request)
-    * [QSF-Get-Required-Role](https://github.com/CortexIntelligentAutomation/CTX-Quick-Start-Flows/wiki/QSF-Get-Required-Role)
-    * [QSF-Ticket-Parsing](https://github.com/CortexIntelligentAutomation/CTX-Quick-Start-Flows/wiki/QSF-Ticket-Parsing)
-    * [QSF-User-Collection-Data](https://github.com/CortexIntelligentAutomation/CTX-Quick-Start-Flows/wiki/QSF-User-Collection-Data) 
 2) [Dependencies](#dependencies)
     * [Cortex Version](#cortex-version)
     * [Files](#files)
@@ -24,7 +20,11 @@ This module provides several tutorial Cortex flows to help new users get familia
 
 ## Quick Start Flows
 
-Please visit the Wiki to find more about each flow.
+Please visit the [Quick Start Flows Wiki](https://github.com/CortexIntelligentAutomation/CTX-Quick-Start-Flows/wiki) to find more about each flow:
+ * [QSF-Allocate-Request](https://github.com/CortexIntelligentAutomation/CTX-Quick-Start-Flows/wiki/QSF-Allocate-Request)
+ * [QSF-Get-Required-Role](https://github.com/CortexIntelligentAutomation/CTX-Quick-Start-Flows/wiki/QSF-Get-Required-Role)
+ * [QSF-Ticket-Parsing](https://github.com/CortexIntelligentAutomation/CTX-Quick-Start-Flows/wiki/QSF-Ticket-Parsing)
+ * [QSF-User-Collection-Data](https://github.com/CortexIntelligentAutomation/CTX-Quick-Start-Flows/wiki/QSF-User-Collection-Data) 
 
 ## Dependencies
 
