@@ -63,15 +63,16 @@ This module provides several tutorial Cortex flows to help new users get familia
 
 This version of the CTX-Quick-Start-Flows module was developed in Cortex version 6.4. Some functionality may not be available on different versions of Cortex.
 
-### Files
-
-The CTX-Quick-Start-Flows module requires the following files:
-
-- [CTX-Quick-Start-Flows.studiopkg](https://github.com/CortexIntelligentAutomation/CTX-Quick-Start-Flows/releases/download/v1.0/CTX-Quick-Start-Flows.studiopkg)
-
 ## Installation
 
-Details of the installation can be found in the [CTX-Quick-Start-Flows Deployment Plan](https://github.com/CortexIntelligentAutomation/CTX-Quick-Start-Flows/blob/master/CTX-Quick-Start-Flows%20-%20Deployment%20Plan.pdf).
+To deploy the CTX-Quick-Start-Flows module on your Cortex system, the CTX-Quick-Start-Flows Studio Package needs to be imported on your Cortex system. To do this:
+* Download the [CTX-Quick-Start-Flows](https://github.com/CortexIntelligentAutomation/CTX-Quick-Start-Flows/releases/download/v1.0/CTX-Quick-Start-Flows.studiopkg)
+* Import the Studio Package in Cortex Gateway
+* Select the flows you wish to import
+* Ensure the relevant users have the required permissions in ‘Studio Authorisation’
+
+After this, all users in the authorised groups will be able to view and execute the flows.
+
 
 ## How to use
 
