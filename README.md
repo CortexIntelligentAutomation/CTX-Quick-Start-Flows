@@ -11,6 +11,7 @@ This module provides several tutorial Cortex flows to help new users get familia
 2) [Dependencies](#dependencies)
     * [Cortex Version](#cortex-version)
     * [Files](#files)
+1) [Support and Warranty](#support-and-warranty)
 3) [Installation](#installation)
 4) [How to use](#how-to-use)
 5) [How you can contribute](#how-you-can-contribute)
@@ -62,6 +63,9 @@ This module provides several tutorial Cortex flows to help new users get familia
 ### Cortex Version
 
 This version of the CTX-Quick-Start-Flows module was developed in Cortex version 6.4. Some functionality may not be available on different versions of Cortex.
+
+## Support and Warranty 
+This module is supplied as a template that you can amend and extend to fit your requirements, as such it is not supported as part of the Cortex Product suite under the Cortex product support agreement.
 
 ## Installation
 
